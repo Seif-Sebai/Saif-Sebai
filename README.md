@@ -23,17 +23,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Seif-Sebai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Sebai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Seif-Sebai&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Seif-Sebai&icon=1&color=12)](https://visitcount.itsvg.in)
-
-
 ps: if you're a tech-guru don't pay much attention to that git graph uwu <br>
-It's there just as an Huwuman resources bypass... <br>
-(I do tend to work on my own like a LOT, I just rarely bother to commit to public repos) <br>
+I edit markdown(.md) files a lot here, so most of it is just that (aka. not code)<br>
+(Plus Huwuman resources love seeing green dots uwu)... <br>
+I do tend to work on my own like a LOT, I just rarely bother to commit to public repos <br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
